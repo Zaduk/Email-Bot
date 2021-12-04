@@ -56,9 +56,9 @@ def delete_all_in_inbox(inbox):
 if __name__ == '__main__':
     print("First, let's log you into your email.")
     # email_address = str(input(Email address: ))
-    username = "ptitfrancais2002@gmail.com"  # temp username
+    username = ""  # enter username
     # passphrase = str(input(Password: ))
-    password = "pxqsueeyrjocnnck"  # temp pass
+    password = ""  # enter pass
 
     # log in
     # make an IMAP4 class using Secure Socket Layers security protocol
